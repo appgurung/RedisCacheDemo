@@ -1,0 +1,15 @@
+C:\SwiftBox\CacheComponent\Configuration\bin\Debug\Configuration.dll
+C:\SwiftBox\CacheComponent\Configuration\bin\Debug\Configuration.pdb
+C:\SwiftBox\CacheComponent\Configuration\bin\Debug\ServiceStack.Common.dll
+C:\SwiftBox\CacheComponent\Configuration\bin\Debug\ServiceStack.Interfaces.dll
+C:\SwiftBox\CacheComponent\Configuration\bin\Debug\ServiceStack.Redis.dll
+C:\SwiftBox\CacheComponent\Configuration\bin\Debug\ServiceStack.Text.dll
+C:\SwiftBox\CacheComponent\Configuration\bin\Debug\ServiceStack.Common.xml
+C:\SwiftBox\CacheComponent\Configuration\bin\Debug\ServiceStack.Interfaces.xml
+C:\SwiftBox\CacheComponent\Configuration\bin\Debug\ServiceStack.Redis.xml
+C:\SwiftBox\CacheComponent\Configuration\bin\Debug\ServiceStack.Text.xml
+C:\SwiftBox\CacheComponent\Configuration\obj\Debug\Configuration.csprojAssemblyReference.cache
+C:\SwiftBox\CacheComponent\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\SwiftBox\CacheComponent\Configuration\obj\Debug\Configuration.csproj.CopyComplete
+C:\SwiftBox\CacheComponent\Configuration\obj\Debug\Configuration.dll
+C:\SwiftBox\CacheComponent\Configuration\obj\Debug\Configuration.pdb
